@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":8,
+   "editMapId":10,
    "elements":[  
       "",
       "Physical",
@@ -155,8 +155,7 @@
    "optSlipDeath":false,
    "optTransparent":false,
    "partyMembers":[  
-      2,
-      3
+      2
    ],
    "ship":{  
       "bgm":{  
@@ -321,7 +320,7 @@
          "volume":90
       }
    ],
-   "startMapId":8,
+   "startMapId":10,
    "startX":16,
    "startY":12,
    "switches":[  
@@ -532,7 +531,7 @@
       "",
       ""
    ],
-   "versionId":38749351,
+   "versionId":90215765,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
