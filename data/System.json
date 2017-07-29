@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":11,
+   "editMapId":19,
    "elements":[  
       "",
       "Physical",
@@ -320,9 +320,9 @@
          "volume":90
       }
    ],
-   "startMapId":8,
-   "startX":12,
-   "startY":3,
+   "startMapId":19,
+   "startX":5,
+   "startY":8,
    "switches":[  
       "",
       "",
@@ -531,7 +531,7 @@
       "",
       ""
    ],
-   "versionId":72573015,
+   "versionId":67165135,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
