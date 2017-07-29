@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":false,"name":"GarethsHideout","order":9,"parentId":0,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
 {"id":9,"expanded":false,"name":"OutsideOfGarethsHideout","order":10,"parentId":0,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
 {"id":10,"expanded":false,"name":"Intro","order":11,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":11,"expanded":false,"name":"RightHouse","order":8,"parentId":4,"scrollX":1786.909090909091,"scrollY":1005.8181818181819}
+{"id":11,"expanded":false,"name":"RightHouse","order":8,"parentId":4,"scrollX":1404,"scrollY":790.2857142857142}
 ]

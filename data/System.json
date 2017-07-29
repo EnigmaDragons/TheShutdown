@@ -93,14 +93,14 @@
       "startX":0,
       "startY":0
    },
-   "currencyUnit":"G",
+   "currencyUnit":"EV",
    "defeatMe":{  
       "name":"Defeat1",
       "pan":0,
       "pitch":100,
       "volume":90
    },
-   "editMapId":10,
+   "editMapId":11,
    "elements":[  
       "",
       "Physical",
@@ -147,7 +147,7 @@
       true
    ],
    "optDisplayTp":false,
-   "optDrawTitle":true,
+   "optDrawTitle":false,
    "optExtraExp":false,
    "optFloorDeath":false,
    "optFollowers":false,
@@ -531,7 +531,7 @@
       "",
       ""
    ],
-   "versionId":24912259,
+   "versionId":14566484,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
