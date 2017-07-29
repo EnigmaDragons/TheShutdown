@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":4,
+   "editMapId":22,
    "elements":[
       "",
       "Physical",
@@ -325,8 +325,8 @@
    "startY":2,
    "switches":[
       "",
-      "",
-      "",
+      "CellarUnlock",
+      "TownHallUpperUnlock",
       "",
       "",
       "",
@@ -531,7 +531,7 @@
       "",
       ""
    ],
-   "versionId":85607470,
+   "versionId":52540665,
    "victoryMe":{
       "name":"Victory1",
       "pan":0,
