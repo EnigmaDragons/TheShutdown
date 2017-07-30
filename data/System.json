@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":19,
+   "editMapId":8,
    "elements":[  
       "",
       "Physical",
@@ -151,7 +151,7 @@
    "optExtraExp":false,
    "optFloorDeath":false,
    "optFollowers":false,
-   "optSideView":false,
+   "optSideView":true,
    "optSlipDeath":false,
    "optTransparent":false,
    "partyMembers":[  
@@ -320,9 +320,9 @@
          "volume":90
       }
    ],
-   "startMapId":18,
-   "startX":6,
-   "startY":2,
+   "startMapId":8,
+   "startX":25,
+   "startY":13,
    "switches":[  
       "",
       "CellarUnlock",
@@ -510,7 +510,7 @@
    },
    "variables":[  
       "",
-      "",
+      "GarethAnger",
       "",
       "Achilleus",
       "",
@@ -523,7 +523,7 @@
       "",
       "",
       "",
-      "",
+      "HubCartGuardBattle",
       "",
       "",
       "",
@@ -531,7 +531,7 @@
       "",
       ""
    ],
-   "versionId":74883266,
+   "versionId":64198736,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
