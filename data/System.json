@@ -70,8 +70,8 @@
          "weaponImageId":12
       }
    ],
-   "battleBgm":{
-      "name":"Battle1",
+   "battleBgm":{  
+      "name":"3_BattleNormal",
       "pan":0,
       "pitch":100,
       "volume":90
@@ -154,8 +154,9 @@
    "optSideView":true,
    "optSlipDeath":false,
    "optTransparent":false,
-   "partyMembers":[
-      2
+   "partyMembers":[  
+      2,
+      3
    ],
    "ship":{
       "bgm":{
@@ -320,10 +321,10 @@
          "volume":90
       }
    ],
-   "startMapId":27,
-   "startX":10,
-   "startY":98,
-   "switches":[
+   "startMapId":4,
+   "startX":28,
+   "startY":47,
+   "switches":[  
       "",
       "CellarUnlock",
       "TownHallUpperUnlock",
@@ -340,8 +341,8 @@
       "",
       "",
       "",
-      "",
-      "",
+      "GuardLogConvo",
+      "ScanningMachineConvo",
       "",
       "",
       ""
