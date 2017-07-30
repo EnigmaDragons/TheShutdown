@@ -71,7 +71,7 @@
       }
    ],
    "battleBgm":{  
-      "name":"Battle1",
+      "name":"3_BattleNormal",
       "pan":0,
       "pitch":100,
       "volume":90
@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":8,
+   "editMapId":4,
    "elements":[  
       "",
       "Physical",
@@ -155,7 +155,8 @@
    "optSlipDeath":false,
    "optTransparent":false,
    "partyMembers":[  
-      2
+      2,
+      3
    ],
    "ship":{  
       "bgm":{  
@@ -320,9 +321,9 @@
          "volume":90
       }
    ],
-   "startMapId":8,
-   "startX":25,
-   "startY":13,
+   "startMapId":4,
+   "startX":28,
+   "startY":47,
    "switches":[  
       "",
       "CellarUnlock",
@@ -340,8 +341,8 @@
       "",
       "",
       "",
-      "",
-      "",
+      "GuardLogConvo",
+      "ScanningMachineConvo",
       "",
       "",
       ""
@@ -531,7 +532,7 @@
       "",
       ""
    ],
-   "versionId":64198736,
+   "versionId":73152867,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
