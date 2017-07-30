@@ -45,8 +45,6 @@
   };*/
  
   Window_ActorCommand.prototype.makeCommandList = function() {
-	 
-	 console.log(enableAttack + " " + enableGuard + " " + enableItem);
       if (this._actor) {
           if (enableAttack) {
             this.addAttackCommand();
