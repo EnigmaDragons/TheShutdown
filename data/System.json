@@ -321,9 +321,9 @@
          "volume":90
       }
    ],
-   "startMapId":4,
-   "startX":28,
-   "startY":47,
+   "startMapId":27,
+   "startX":10,
+   "startY":97,
    "switches":[
       "",
       "CellarUnlock",
@@ -550,9 +550,9 @@
       "",
       "",
       "",
-      ""
+      "ShouldReset"
    ],
-   "versionId":44004638,
+   "versionId":98376415,
    "victoryMe":{
       "name":"Victory1",
       "pan":0,
