@@ -70,7 +70,7 @@
          "weaponImageId":12
       }
    ],
-   "battleBgm":{  
+   "battleBgm":{
       "name":"3_BattleNormal",
       "pan":0,
       "pitch":100,
@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":29,
+   "editMapId":30,
    "elements":[
       "",
       "Physical",
@@ -154,7 +154,7 @@
    "optSideView":true,
    "optSlipDeath":false,
    "optTransparent":false,
-   "partyMembers":[  
+   "partyMembers":[
       2,
       3
    ],
@@ -324,7 +324,7 @@
    "startMapId":4,
    "startX":28,
    "startY":47,
-   "switches":[  
+   "switches":[
       "",
       "CellarUnlock",
       "TownHallUpperUnlock",
@@ -534,14 +534,14 @@
       "GateHouse1",
       "GateHouse2",
       "GateHouse3",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      "NobleCourt1",
+      "NobleCourt2",
+      "NobleCourt3",
+      "NobleCourt4",
+      "NobleCourt5",
+      "NobleCourt6",
+      "NobleCourt7",
+      "NobleCourt8",
       "",
       "",
       "",
@@ -552,7 +552,7 @@
       "",
       ""
    ],
-   "versionId":38441114,
+   "versionId":44004638,
    "victoryMe":{
       "name":"Victory1",
       "pan":0,
