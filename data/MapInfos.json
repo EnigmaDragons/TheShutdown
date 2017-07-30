@@ -30,5 +30,6 @@ null,
 {"id":28,"expanded":false,"name":"GateHouse","order":28,"parentId":27,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":29,"expanded":false,"name":"UpperGateHouse","order":29,"parentId":27,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":30,"expanded":false,"name":"NoblesCourt","order":30,"parentId":27,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":31,"expanded":false,"name":"UpperNoblesCourt","order":31,"parentId":27,"scrollX":1404,"scrollY":790.2857142857142}
+{"id":31,"expanded":false,"name":"UpperNoblesCourt","order":31,"parentId":27,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":32,"expanded":false,"name":"Final Castle","order":32,"parentId":27,"scrollX":1228.5,"scrollY":691.5}
 ]
