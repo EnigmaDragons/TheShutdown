@@ -1,3 +1,4 @@
 [
-null
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Volinistrator Badges allow you to get past Scanners","effects":[],"hitType":0,"iconIndex":195,"itypeId":2,"name":"Level 1 Volinistrator Badge","note":"","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
 ]
