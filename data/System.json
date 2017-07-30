@@ -1,6 +1,6 @@
-{  
-   "airship":{  
-      "bgm":{  
+{
+   "airship":{
+      "bgm":{
          "name":"Ship3",
          "pan":0,
          "pitch":100,
@@ -12,65 +12,65 @@
       "startX":0,
       "startY":0
    },
-   "armorTypes":[  
+   "armorTypes":[
       "",
       "General Armor"
    ],
-   "attackMotions":[  
-      {  
+   "attackMotions":[
+      {
          "type":0,
          "weaponImageId":0
       },
-      {  
+      {
          "type":1,
          "weaponImageId":1
       },
-      {  
+      {
          "type":1,
          "weaponImageId":2
       },
-      {  
+      {
          "type":1,
          "weaponImageId":3
       },
-      {  
+      {
          "type":1,
          "weaponImageId":4
       },
-      {  
+      {
          "type":1,
          "weaponImageId":5
       },
-      {  
+      {
          "type":1,
          "weaponImageId":6
       },
-      {  
+      {
          "type":2,
          "weaponImageId":7
       },
-      {  
+      {
          "type":2,
          "weaponImageId":8
       },
-      {  
+      {
          "type":2,
          "weaponImageId":9
       },
-      {  
+      {
          "type":0,
          "weaponImageId":10
       },
-      {  
+      {
          "type":0,
          "weaponImageId":11
       },
-      {  
+      {
          "type":0,
          "weaponImageId":12
       }
    ],
-   "battleBgm":{  
+   "battleBgm":{
       "name":"Battle1",
       "pan":0,
       "pitch":100,
@@ -80,8 +80,8 @@
    "battleback2Name":"Grassland",
    "battlerHue":0,
    "battlerName":"Dragon",
-   "boat":{  
-      "bgm":{  
+   "boat":{
+      "bgm":{
          "name":"Ship1",
          "pan":0,
          "pitch":100,
@@ -94,14 +94,14 @@
       "startY":0
    },
    "currencyUnit":"EV",
-   "defeatMe":{  
+   "defeatMe":{
       "name":"Defeat1",
       "pan":0,
       "pitch":100,
       "volume":90
    },
-   "editMapId":8,
-   "elements":[  
+   "editMapId":29,
+   "elements":[
       "",
       "Physical",
       "Fire",
@@ -114,7 +114,7 @@
       "Darkness",
       "Arcane"
    ],
-   "equipTypes":[  
+   "equipTypes":[
       "",
       "",
       "Main Hand",
@@ -128,17 +128,17 @@
       ""
    ],
    "gameTitle":"ProjectTemplate",
-   "gameoverMe":{  
+   "gameoverMe":{
       "name":"Gameover1",
       "pan":0,
       "pitch":100,
       "volume":90
    },
    "locale":"en_US",
-   "magicSkills":[  
+   "magicSkills":[
       1
    ],
-   "menuCommands":[  
+   "menuCommands":[
       true,
       true,
       true,
@@ -154,11 +154,11 @@
    "optSideView":true,
    "optSlipDeath":false,
    "optTransparent":false,
-   "partyMembers":[  
+   "partyMembers":[
       2
    ],
-   "ship":{  
-      "bgm":{  
+   "ship":{
+      "bgm":{
          "name":"Ship2",
          "pan":0,
          "pitch":100,
@@ -170,160 +170,160 @@
       "startX":0,
       "startY":0
    },
-   "skillTypes":[  
+   "skillTypes":[
       "",
       "Skill"
    ],
-   "sounds":[  
-      {  
+   "sounds":[
+      {
          "name":"Cursor2",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Decision1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Cancel2",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Buzzer1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Equip1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Save",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Load",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Battle1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Run",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Attack3",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Damage4",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Collapse1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Collapse2",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Collapse3",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Damage5",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Collapse4",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Recovery",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Miss",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Evasion1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Evasion2",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Reflection",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Shop1",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Item3",
          "pan":0,
          "pitch":100,
          "volume":90
       },
-      {  
+      {
          "name":"Item3",
          "pan":0,
          "pitch":100,
          "volume":90
       }
    ],
-   "startMapId":8,
-   "startX":25,
-   "startY":13,
-   "switches":[  
+   "startMapId":27,
+   "startX":10,
+   "startY":98,
+   "switches":[
       "",
       "CellarUnlock",
       "TownHallUpperUnlock",
@@ -346,8 +346,8 @@
       "",
       ""
    ],
-   "terms":{  
-      "basic":[  
+   "terms":{
+      "basic":[
          "Level",
          "Lv",
          "HP",
@@ -359,7 +359,7 @@
          "EXP",
          "EXP"
       ],
-      "commands":[  
+      "commands":[
          "Fight",
          "Escape",
          "Attack",
@@ -387,7 +387,7 @@
          "Buy",
          "Sell"
       ],
-      "params":[  
+      "params":[
          "Max HP",
          "Max MP",
          "Attack",
@@ -399,7 +399,7 @@
          "Hit",
          "Evasion"
       ],
-      "messages":{  
+      "messages":{
          "actionFailure":"There was no effect on %1!",
          "actorDamage":"%1 took %2 damage!",
          "actorDrain":"%1 was drained of %2 %3!",
@@ -453,10 +453,10 @@
          "victory":"%1 was victorious!"
       }
    },
-   "testBattlers":[  
-      {  
+   "testBattlers":[
+      {
          "actorId":2,
-         "equips":[  
+         "equips":[
             2,
             2,
             0,
@@ -465,9 +465,9 @@
          ],
          "level":1
       },
-      {  
+      {
          "actorId":0,
-         "equips":[  
+         "equips":[
             2,
             1,
             2,
@@ -476,9 +476,9 @@
          ],
          "level":1
       },
-      {  
+      {
          "actorId":0,
-         "equips":[  
+         "equips":[
             3,
             0,
             2,
@@ -487,9 +487,9 @@
          ],
          "level":1
       },
-      {  
+      {
          "actorId":0,
-         "equips":[  
+         "equips":[
             4,
             0,
             2,
@@ -502,13 +502,13 @@
    "testTroopId":3,
    "title1Name":"TheShutdown",
    "title2Name":"",
-   "titleBgm":{  
+   "titleBgm":{
       "name":"1_TheShutdown_Title",
       "pan":0,
       "pitch":100,
       "volume":90
    },
-   "variables":[  
+   "variables":[
       "",
       "GarethAnger",
       "",
@@ -516,7 +516,7 @@
       "",
       "",
       "",
-      "",
+      "Gatehouse1",
       "",
       "",
       "",
@@ -529,19 +529,39 @@
       "",
       "",
       "",
+      "",
+      "GateHouse1",
+      "GateHouse2",
+      "GateHouse3",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
    ],
-   "versionId":64198736,
-   "victoryMe":{  
+   "versionId":38441114,
+   "victoryMe":{
       "name":"Victory1",
       "pan":0,
       "pitch":100,
       "volume":90
    },
-   "weaponTypes":[  
+   "weaponTypes":[
       ""
    ],
-   "windowTone":[  
+   "windowTone":[
       0,
       0,
       0,
