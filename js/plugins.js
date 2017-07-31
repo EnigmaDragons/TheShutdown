@@ -177,5 +177,6 @@ var $plugins =
 {"name":"Permadeath","status":false,"description":"v1.3 Adds permadeath.","parameters":{"Permadeath Switch":"","Disable Leader Permadeath":"false","Permadeath Actor Boolean":"_permaDied"}},
 {"name":"SkipCommandSelect","status":false,"description":"v1.00 Skip the command selection by going right to the skill selection requires Attack to be disabled.","parameters":{}},
 {"name":"ED_Track","status":true,"description":"Track how many times a thing occurs by using plugin command.","parameters":{}},
-{"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"300","Add to options":"No","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}}
+{"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"300","Add to options":"No","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}},
+{"name":"Beldrin","status":true,"description":"","parameters":{}}
 ];
