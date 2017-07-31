@@ -127,7 +127,7 @@
       "",
       ""
    ],
-   "gameTitle":"ProjectTemplate",
+   "gameTitle":"The Shutdown",
    "gameoverMe":{  
       "name":"Gameover1",
       "pan":0,
@@ -501,7 +501,7 @@
       }
    ],
    "testTroopId":3,
-   "title1Name":"TheShutdown",
+   "title1Name":"TheShutdown4",
    "title2Name":"",
    "titleBgm":{  
       "name":"1_TheShutdown_Title",
@@ -572,7 +572,7 @@
       "",
       ""
    ],
-   "versionId":8224738,
+   "versionId":47013763,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
