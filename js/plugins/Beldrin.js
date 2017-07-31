@@ -44,7 +44,6 @@ function BeldrinTheDarkMage() {
     this.addAllSkillChances = function() {
         if (!this.isPoisonCloudOnCooldown && this.turnsBeforePoisonCloudAvailable === 0)
             this.addChances("Poison Cloud", 5);
-        this.addChances("Summon Wraith", 2);
         this.addChances("Attack", 7);
         if (!this.isDarknessOnCooldown)
             this.addChances("Darkness", 2);
