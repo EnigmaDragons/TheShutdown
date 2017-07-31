@@ -26,10 +26,11 @@ null,
 {"id":24,"expanded":false,"name":"MachineRoom","order":13,"parentId":22,"scrollX":1228.5,"scrollY":691.5},
 {"id":25,"expanded":false,"name":"UpperHall","order":14,"parentId":22,"scrollX":1228.5,"scrollY":691.5},
 {"id":26,"expanded":false,"name":"ExpermintalLab","order":15,"parentId":22,"scrollX":1228.5,"scrollY":691.5},
-{"id":27,"expanded":true,"name":"Capital City","order":27,"parentId":0,"scrollX":816,"scrollY":1830},
+{"id":27,"expanded":true,"name":"Capital City","order":27,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1830.6666666666667},
 {"id":28,"expanded":false,"name":"GateHouse","order":28,"parentId":27,"scrollX":1228.5,"scrollY":691.5},
 {"id":29,"expanded":false,"name":"UpperGateHouse","order":29,"parentId":27,"scrollX":1228.5,"scrollY":691.5},
 {"id":30,"expanded":false,"name":"NoblesCourt","order":30,"parentId":27,"scrollX":832,"scrollY":640},
 {"id":31,"expanded":false,"name":"UpperNoblesCourt","order":31,"parentId":27,"scrollX":1228.5,"scrollY":691.5},
-{"id":32,"expanded":false,"name":"Final Castle","order":32,"parentId":27,"scrollX":1228.5,"scrollY":691.5}
+{"id":32,"expanded":false,"name":"Final Castle","order":32,"parentId":27,"scrollX":816,"scrollY":648},
+{"id":33,"expanded":false,"name":"Final Boss","order":33,"parentId":27,"scrollX":832,"scrollY":640}
 ]
