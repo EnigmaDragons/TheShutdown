@@ -100,7 +100,7 @@
       "pitch":100,
       "volume":90
    },
-   "editMapId":23,
+   "editMapId":15,
    "elements":[  
       "",
       "Physical",
@@ -321,9 +321,9 @@
          "volume":90
       }
    ],
-   "startMapId":27,
-   "startX":10,
-   "startY":42,
+   "startMapId":15,
+   "startX":16,
+   "startY":12,
    "switches":[  
       "",
       "CellarUnlock",
@@ -456,24 +456,24 @@
    },
    "testBattlers":[  
       {  
-         "actorId":2,
+         "actorId":4,
          "equips":[  
-            2,
-            2,
             0,
             0,
-            0
+            0,
+            7,
+            6
          ],
          "level":1
       },
       {  
          "actorId":0,
          "equips":[  
-            2,
-            1,
-            2,
-            3,
-            0
+            0,
+            0,
+            0,
+            7,
+            6
          ],
          "level":1
       },
@@ -500,7 +500,7 @@
          "level":1
       }
    ],
-   "testTroopId":3,
+   "testTroopId":18,
    "title1Name":"TheShutdown4",
    "title2Name":"",
    "titleBgm":{  
@@ -572,7 +572,7 @@
       "",
       ""
    ],
-   "versionId":47013763,
+   "versionId":97375408,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
