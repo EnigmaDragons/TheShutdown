@@ -2,13 +2,13 @@
 
 ----
 
-Set in the near future where mega-corporations rule the world and the gap between the rich and the poor has widened, you are scraping by, just trying to survive in the big city. You work at Mega-Buy's call center and work hard to afford your daily rent and regular meals, while navigating a hostile workplace, in a thankless job, with ever changing corporate policies.
+Evolos has gotten out of control and you are gonna shut them down
 
 ----
 
-![screenshot](https://github.com/EnigmaDragons/TheShutdown/screenshots/shot1.jpg)
+![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot1.jpg)
 
-![screenshot](https://github.com/EnigmaDragons/TheShutdown/screenshots/shot2.jpg)
+![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot2.jpg)
 
 ----
 
