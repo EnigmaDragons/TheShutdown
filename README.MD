@@ -36,4 +36,4 @@ Evolos has gotten out of control and you are gonna shut them down
 * **timeracers**
 * **Nate Fuller**
 * **Caleb Reinagel**
-* **Oliver Wolfie Simpson**
+* **Oliver "Wolfie" Simpson**
