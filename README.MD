@@ -1,12 +1,12 @@
 # The Shutdown
 ----
-Created for Ludum Dare 39 - [https://ldjam.com/events/ludum-dare/38/planet-or-die](ldjam.com)
+Created for Ludum Dare 39 - [https://ldjam.com/events/ludum-dare/39/the-shutdown(ldjam.com)
 ----
 
 ### Play
 
 **Current Windows Release:**
-https://github.com/EnigmaDragons/AllPlanet/releases
+https://github.com/EnigmaDragons/TheShutdown/releases
 
 1. Download the Windows release zip
 2. Unzip it into a directory of your choice
@@ -36,3 +36,4 @@ Evolos has gotten out of control and you are gonna shut them down
 * **timeracers**
 * **Nate Fuller**
 * **Caleb Reinagel**
+* **Oliver "Wolfie" Simpson**
