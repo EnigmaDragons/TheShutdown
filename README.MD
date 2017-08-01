@@ -1,8 +1,16 @@
 # The Shutdown
-
+----
+Created for Ludum Dare 39 - [https://ldjam.com/events/ludum-dare/38/planet-or-die](ldjam.com)
 ----
 
-Evolos has gotten out of control and you are gonna shut them down
+### Play
+
+**Current Windows Release:**
+https://github.com/EnigmaDragons/AllPlanet/releases
+
+1. Download the Windows release zip
+2. Unzip it into a directory of your choice
+3. Run `.exe`
 
 ----
 
@@ -16,8 +24,15 @@ Evolos has gotten out of control and you are gonna shut them down
 
 ----
 
-<strong>Contributors</strong>:
-- SilasReinagel
-- ZavixDragon
-- timeracers
-- Kazamaru
+### Description
+
+Evolos has gotten out of control and you are gonna shut them down 
+
+----
+
+### Development Team:
+* **Silas Reinagel**
+* **Noah Reinagel**
+* **timeracers**
+* **Nate Fuller**
+* **Caleb Reinagel**
