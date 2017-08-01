@@ -6,7 +6,11 @@ Evolos has gotten out of control and you are gonna shut them down
 
 ----
 
+![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot3.jpg)
+
 ![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot1.jpg)
+
+![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot4.jpg)
 
 ![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot2.jpg)
 
