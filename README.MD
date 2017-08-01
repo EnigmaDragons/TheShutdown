@@ -1,6 +1,6 @@
 # The Shutdown
 ----
-Created for Ludum Dare 39 - [https://ldjam.com/events/ludum-dare/38/planet-or-die](ldjam.com)
+Created for Ludum Dare 39 - [https://ldjam.com/events/ludum-dare/39/the-shutdown(ldjam.com)
 ----
 
 ### Play
