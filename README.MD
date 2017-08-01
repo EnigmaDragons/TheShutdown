@@ -14,7 +14,11 @@ https://github.com/EnigmaDragons/AllPlanet/releases
 
 ----
 
+![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot3.jpg)
+
 ![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot1.jpg)
+
+![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot4.jpg)
 
 ![screenshot](https://github.com/EnigmaDragons/TheShutdown/blob/master/screenshots/shot2.jpg)
 
