@@ -74,7 +74,7 @@
       "name":"3_BattleNormal",
       "pan":0,
       "pitch":100,
-      "volume":90
+      "volume":50
    },
    "battleback1Name":"Grassland",
    "battleback2Name":"Grassland",
@@ -85,7 +85,7 @@
          "name":"",
          "pan":0,
          "pitch":100,
-         "volume":90
+         "volume":50
       },
       "characterIndex":0,
       "characterName":"Vehicle",
@@ -163,7 +163,7 @@
          "name":"",
          "pan":0,
          "pitch":100,
-         "volume":90
+         "volume":50
       },
       "characterIndex":1,
       "characterName":"Vehicle",
