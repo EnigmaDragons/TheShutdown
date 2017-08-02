@@ -61,7 +61,7 @@ if(String(PluginManager.parameters('ED_Track')['Track Battle Victory']) == "true
     }
 }
 
-if(String(PluginManager.parameters('ED_Track')['Track Battle Defeat']) == "true"){
+if(String(PluginManager.parameters('ED_Track')['Track Battle Abort/Escape']) == "true"){
     var ED_Track_BattleManager_processAbort = BattleManager.processAbort;
     BattleManager.processAbort = function(){
         if(!battleResultSent){
@@ -72,7 +72,7 @@ if(String(PluginManager.parameters('ED_Track')['Track Battle Defeat']) == "true"
     }
 }
 
-if(String(PluginManager.parameters('ED_Track')['Track Battle Abort/Escape']) == "true"){
+if(String(PluginManager.parameters('ED_Track')['Track Battle Defeat']) == "true"){
     var ED_Track_BattleManager_processDefeat = BattleManager.processDefeat;
     BattleManager.processDefeat = function(){
         if(!battleResultSent){
