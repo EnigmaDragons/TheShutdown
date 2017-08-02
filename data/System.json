@@ -150,7 +150,7 @@
    "optDrawTitle":false,
    "optExtraExp":false,
    "optFloorDeath":false,
-   "optFollowers":false,
+   "optFollowers":true,
    "optSideView":true,
    "optSlipDeath":false,
    "optTransparent":false,
@@ -572,7 +572,7 @@
       "",
       ""
    ],
-   "versionId":3244117,
+   "versionId":21787163,
    "victoryMe":{  
       "name":"Victory1",
       "pan":0,
