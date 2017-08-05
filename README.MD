@@ -1,6 +1,6 @@
 # The Shutdown
 ----
-Created for Ludum Dare 39 - [https://ldjam.com/events/ludum-dare/39/the-shutdown(ldjam.com)
+Created for Ludum Dare 39 - https://ldjam.com/events/ludum-dare/39/the-shutdown
 ----
 
 ### Play
@@ -26,7 +26,9 @@ https://github.com/EnigmaDragons/TheShutdown/releases
 
 ### Description
 
-Evolos has gotten out of control and you are gonna shut them down 
+The Shutdown is a strategic RPG with an original soundtrack.
+
+A corrupt visionary has created a powerful drug that has radically changed the nature of humanity. He has installed his own government to supply people with this drug and teaches them to use it as currency. It makes people stronger, faster, and smarter, but makes them lose their minds. You must fight back again the corruption and free your countrymen!
 
 ----
 
